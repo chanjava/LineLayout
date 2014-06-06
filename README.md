@@ -1,4 +1,4 @@
 LineLayout
 ==========
 
-linelayout
+linelayout. used to layout
